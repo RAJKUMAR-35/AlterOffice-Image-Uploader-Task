@@ -10,7 +10,7 @@ https://www.figma.com/design/tAekIi9QG7AVxP9NGxkNYb/image-uploader-figma?node-id
 ```
 **Demo Video:** 
 ```bash
-https://github.com/
+https://drive.google.com/file/d/1qi80iWpQLJv-E29Ii5FtRwYpso1J-QsK/view?usp=sharing
 ```
 --- 
 

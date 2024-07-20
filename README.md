@@ -2,8 +2,17 @@
 
 A React.js and Node.js application for smooth image uploading, including drag-and-drop, image management, and robust error handling.
 
-![Preview Image](Front-End/src/Image/Demo_Image.png) 
-**Figma Design:** [View Design](https://www.figma.com/design/tAekIi9QG7AVxP9NGxkNYb/image-uploader-figma?node-id=0-1&t=mH62885eeSkaIzEr-1)
+![Preview Image](Front-End/src/Image/Project_Demo.png) 
+
+**Figma Design:** 
+```bash
+https://www.figma.com/design/tAekIi9QG7AVxP9NGxkNYb/image-uploader-figma?node-id=0-1&t=mH62885eeSkaIzEr-1
+```
+**Demo Video:** 
+```bash
+https://github.com/
+```
+--- 
 
 ## Key Concepts
 

@@ -1,4 +1,4 @@
-# Image Uploader
+# Image Uploader Application
 
 A React.js and Node.js application for smooth image uploading, including drag-and-drop, image management, and robust error handling.
 

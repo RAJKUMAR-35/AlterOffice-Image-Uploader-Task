@@ -70,4 +70,5 @@ This project delivers a complete image uploader solution with React.js and Node.
 For any inquiries or feedback, please contact:
 - **Email**: rajkumaranbu192@gmail.com
 - **LinkedIn**: [Rajkumar A](https://www.linkedin.com/in/rajkumar-cse/)
-****
+
+---
